@@ -3,7 +3,7 @@ title:  "[PROJECT D] 존 윅"
 excerpt: "알파테스트 플레이 하이라이트 영상 - 존 윅"
 
 categories:
-  - Project D
+  - project-d
 tags:
   - []
 
